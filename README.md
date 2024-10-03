@@ -4,7 +4,7 @@
 
 Models: Regression
 
-<a href="https://github.com/KainaraDm/productech_projects/tree/main/segmentation">2. Market segmentation research by product (2021)</a> The research included Amazon's market segmentation by certain products.
+<a href="https://github.com/KainaraDm/productech_projects/tree/main/segmentation">2. Market segmentation research and competitive analysis  by product (2021)</a> The research included Amazon's market segmentation and competitive analysis by certain products.
 
 Market Segmentation
 
