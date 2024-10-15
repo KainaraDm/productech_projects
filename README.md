@@ -9,3 +9,5 @@ Models: Regression
 Market Segmentation
 
 <a href="https://github.com/KainaraDm/productech_projects/tree/main/sentiment_analysis">3. Comment Sentiment Analysis (2021)</a> This tool was developed to help better understand customer needs by analyzing Amazon reviews of their main competitors' products. It performs sentiment analysis on customer feedback, providing insights into the strengths and weaknesses of various products based on real user opinions.
+
+Models: NLP, Sentiment Analysis, deeplearning
